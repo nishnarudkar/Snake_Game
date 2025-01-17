@@ -1,6 +1,6 @@
 # My Snake Game
 
-![Snake Game Banner](https://via.placeholder.com/800x200.png?text=Snake+Game)  
+![Snake Game Banner](banner-snake-game.png)  
 A classic Snake game built using Python's `turtle` module! Navigate the snake to eat food, grow in size, and avoid crashing into walls or itself. This fun and addictive game is perfect for learning and practicing Python basics.
 
 ---
