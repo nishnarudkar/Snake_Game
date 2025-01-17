@@ -55,7 +55,7 @@ A classic Snake game built using Python's `turtle` module! Navigate the snake to
 
 ## 🖼️ Screenshots
 ### Game Over
-![Game Over Screenshot](https://via.placeholder.com/600x400.png?text=Game+Over)
+![Game Over Screenshot](game.png)
 
 ---
 
